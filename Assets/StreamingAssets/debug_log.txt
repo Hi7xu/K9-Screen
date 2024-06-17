@@ -1,0 +1,9 @@
+C:/Users/User/Desktop/K9_JackpotScreen_原版/Assets/StreamingAssets/Server_IP.txt
+Log
+--------------------
+--------------Test---------------
+Log
+--------------------
+ *** Start game at 2024-06-13 16:59:50.990 ***
+Log
+--------------------

@@ -1,0 +1,10 @@
+C:\Users\qwe47\Desktop\Sever\Server\bin\Debug\ChatDemo.exe.config
+C:\Users\qwe47\Desktop\Sever\Server\bin\Debug\ChatDemo.exe
+C:\Users\qwe47\Desktop\Sever\Server\bin\Debug\ChatDemo.pdb
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\ChatDemo.MainFrm.resources
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\ChatDemo.Properties.Resources.resources
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\ChatDemo.exe
+C:\Users\qwe47\Desktop\Sever\Server\obj\Debug\ChatDemo.pdb
